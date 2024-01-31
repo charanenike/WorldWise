@@ -1,63 +1,51 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "4157",
+      "cityName": "Mopidevi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-31T08:56:14.771Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "60ea",
-      "cityName": "Leganes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-30T17:53:09.277Z",
-      "notes": "",
-      "position": {
-        "lat": "40.343117282665915",
-        "lng": "-3.780683211074219"
+        "lat": "16.046561569317337",
+        "lng": "80.93949794769289"
       }
     },
     {
-      "id": "2ddd",
-      "cityName": "Obejo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-30T17:53:11.488Z",
+      "id": "9b4d",
+      "cityName": "Challapalle",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-31T08:56:24.202Z",
       "notes": "",
       "position": {
-        "lat": "38.1308942718248",
-        "lng": "-4.813115232164267"
+        "lat": "16.116453667752936",
+        "lng": "80.93490600585939"
+      }
+    },
+    {
+      "id": "c50e",
+      "cityName": "Vijayawada",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-31T08:56:33.876Z",
+      "notes": "",
+      "position": {
+        "lat": "16.526148155402105",
+        "lng": "80.65612792968751"
+      }
+    },
+    {
+      "id": "f9d9",
+      "cityName": "Chitaguppa taluk",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-31T09:03:23.953Z",
+      "notes": "",
+      "position": {
+        "lat": "17.649518776277255",
+        "lng": "77.37121582031251"
       }
     }
   ]
